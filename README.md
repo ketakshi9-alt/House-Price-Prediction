@@ -8,12 +8,15 @@ ML PROJECT 1
 
 ├── Datasets/           
 │   └── Housing.csv
+
 ├── Model/                 
 │   ├── LinearModel.py     
 │   ├── model_linear.pkl   
 │   └── PredictionScript.py
+
 ├── templates/             
 │   └── index.html
+
 ├── app.py               
 
 ## 🚀 How to Run
